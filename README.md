@@ -1,12 +1,13 @@
 ###
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer&text=Karanja019&fontSize=40)
+
 Hi There <br> This is kevin Karanja. <br>
 
 A Computer Scirnce Undergraduate at Dedan Kimathi University Of Technology.
-
-<img src="https://avatars.githubusercontent.com/u/75438336?v=4" alt="karanja019" width="100" height="100"><hr>
 🔭 He iscurrently working on web developmen and mobile development. <br>
 - 🌱 He is currently learning cloud computing.<br>
-- 👯 He is  looking to collaborate on everything.<br>
+- 👯 He is  looking to collaborate on open source contribution.<br>
 - 🤔 He looking for help with procrastination.<br>
 - 😄 Pronouns: It's me.<br>
 - ⚡ Fun fact: He is also a music pproducer😄.<br><hr>
