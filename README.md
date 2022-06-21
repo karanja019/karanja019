@@ -4,11 +4,6 @@ Hi There <br> Am kevin Karanja. <br>
 Computer Scirnce Undergraduate at Dedan Kimathi University Of Technology.
 
 <img src="https://avatars.githubusercontent.com/u/75438336?v=4" alt="karanja019" width="100" height="100">
-<!--
-**karanja019/karanja019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 🔭 I’m currently working on web developmen and mobile development. 
 - 🌱 I’m currently learning cloud computing.
 - 👯 I’m looking to collaborate on everything.
