@@ -1,6 +1,6 @@
 ###
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer&text=Kevin Karanja&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer&text=Kevin&Karanja&fontSize=40)
 
 Hi There <br> This is kevin Karanja. <br>
 
