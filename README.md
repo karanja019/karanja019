@@ -12,8 +12,8 @@ A Computer Scirnce Undergraduate at Dedan Kimathi University Of Technology.
 - 😄 Pronouns: It's me.<br>
 - ⚡ Fun fact: He is also a music pproducer😄.<br><hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karanja019&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabrownie&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karanja019&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrownie&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabrownie&theme=radical)](https://git.io/streak-stats)
