@@ -4,8 +4,8 @@
 
 Hi There <br> This is kevin Karanja. <br>
 
-A Computer Scirnce Undergraduate at Dedan Kimathi University Of Technology.
-🔭 He iscurrently working on web developmen and mobile development. <br>
+A Computer Science Undergraduate at Dedan Kimathi University Of Technology.
+🔭 He iscurrently working on web development and mobile development. <br>
 - 🌱 He is currently learning cloud computing.<br>
 - 👯 He is  looking to collaborate on open source contribution.<br>
 - 🤔 He looking for help with procrastination.<br>
