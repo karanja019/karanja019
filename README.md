@@ -1,9 +1,15 @@
 ###
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=footer&text=Hi-There&fontSize=20)
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=footer&text=This-is-Kevin-Karanja&fontSize=20)
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=footer&text=A-Computer-Science-Undergraduate-at-Dedan-Kimathi-University-Of-Technology.&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7&section=footer&text=&fontSize=20)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There+👋;This+is+Kevin+karanja;A+Computer+Science+Undergraduate;Dedan+Kimathi+University+Of+Tech)](https://git.io/typing-svg)
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7&section=footer&text=&fontSize=20)
 ### MY portfolio https://kabrownie.me/
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7&section=footer&text=&fontSize=20)
 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kabrownie&theme=radical)](https://git.io/streak-stats)
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7&section=footer&text=&fontSize=20)
