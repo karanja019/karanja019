@@ -5,7 +5,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7&section=footer&text=&fontSize=20)
 ### MY portfolio https://kabrownie.me/
-
+#### Code Chef :) https://codechef.com/users/kabrownie
+#### twitter https://twitter.com/kabrowniebeats
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7&section=footer&text=&fontSize=20)
 
 
