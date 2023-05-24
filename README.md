@@ -6,8 +6,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7&section=footer&text=&fontSize=20)
 
 ### my portifolio >> Still in development..but can still be visited>>> ... https://kabrownie.me/ 
-### Kabrownie (kevin Karanja) is a pro in Android development
-#### twitter https://twitter.com/kabrowniebeats
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7&section=footer&text=&fontSize=20)
 
 
