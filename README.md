@@ -5,7 +5,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7&section=footer&text=&fontSize=20)
 
-### my portifolio >> Still in development..but can still be visited>>> ... https://kabrownie.me/ 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrownie&hide_progress=true)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7&section=footer&text=&fontSize=20)
 
+#### my portifolio >> Still in development..but can still be visited>>> ... https://kabrownie.me/ 
+ ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7&section=footer&text=&fontSize=20)
