@@ -10,5 +10,5 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7&section=footer&text=&fontSize=20)
 
-#### my portifolio >> Still in development..but can still be visited>>> ... https://kabrownie.me/ 
+#### my portifolio >> Still in development..but can still be visited>>> ... https://kabrownie.github.io
  ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=7&section=footer&text=&fontSize=20)
